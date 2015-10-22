@@ -1,7 +1,7 @@
 # Storyteller-Dots
-Here is a font to create storyteller dots. It is based on Percolator-expert font and has simple "O" as empty dot and filled "O" as filled dot.
+This is a font to create storyteller dots, designed for character sheet generator http://charsheet.su. It is based on Percolator-expert font and has simple "O" as empty dot and filled "O" as filled dot.
 
-Also is has checkbox character from Font-Awesome font (https://github.com/FortAwesome/Font-Awesome) and custom filled checkbox.
+This font also has checkbox character from Font-Awesome font (https://github.com/FortAwesome/Font-Awesome) and custom filled checkbox.
 
 It looks like this:
 
@@ -43,4 +43,6 @@ to display checkbox, you should use
     content: "D";
 }
 ```
-Custom characters are made with FontForge (http://fontforge.github.io/en-US/) application
+Custom characters are made with FontForge (http://fontforge.github.io/en-US/) application.
+
+Your comments and new characters are welcome :)
