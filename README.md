@@ -45,4 +45,6 @@ to display checkbox, you should use
 ```
 Custom characters are made with FontForge (http://fontforge.github.io/en-US/) application.
 
+You can create your own web applications with storytellings dots using JQuery Bar Rating plugin (https://github.com/antennaio/jquery-bar-rating).
+
 Your comments and new characters are welcome :)
