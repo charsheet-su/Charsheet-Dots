@@ -2,6 +2,11 @@
 Here is a font to create storyteller dots. It is based on Percolator-expert font and has simple "O" as empty dot and filled "O" as filled dot.
 
 Also is has checkbox character from Font-Awesome font (https://github.com/FortAwesome/Font-Awesome) and custom filled checkbox.
+
+It looks like this:
+
+![Font sample](https://raw.githubusercontent.com/jehy/Storyteller-Dots/master/font-sample.png)
+
 Add this font to your CSS via the following code:
 
 ```css
