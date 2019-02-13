@@ -1,0 +1,26 @@
+{
+  "name": "charsheet-dots",
+  "version": "1.0.0",
+  "description": "Charsheet dots font and css",
+  "keywords": [
+    "font"
+  ],
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charsheet-su/Storyteller-Dots"
+  },
+  "homepage": "https://github.com/charsheet-su/Storyteller-Dots",
+  "author": {
+    "name": "Jehy",
+    "email": "npm@jehy.ru",
+    "url": "https://github.com/jehy/"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

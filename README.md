@@ -1,7 +1,8 @@
-# Storyteller-Dots
-This is a font to create storyteller dots, designed for character sheet generator http://charsheet.su. It is based on Percolator-expert font and has simple "O" as empty dot and filled "O" as filled dot.
+# Charsheet-Dots
 
-This font also has checkbox character from Font-Awesome font (https://github.com/FortAwesome/Font-Awesome) and custom filled checkbox.
+This is a font to create dots and checkboxes, designed for character sheet generator http://charsheet.su. It is based on Percolator-expert font and has simple "O" as empty dot and filled "O" as filled dot.
+
+This font also has checkbox character from [Font-Awesome font](https://github.com/FortAwesome/Font-Awesome) and custom filled checkbox.
 
 It looks like this:
 
@@ -43,8 +44,14 @@ to display checkbox, you should use
     content: "D";
 }
 ```
-Custom characters are made with FontForge (http://fontforge.github.io/en-US/) application.
+Custom characters are made with [FontForge](http://fontforge.github.io/en-US/) application.
 
-You can create your own web applications with storytellings dots using JQuery Bar Rating plugin (https://github.com/antennaio/jquery-bar-rating).
+You can create your own web applications with storyteller dots
+using [JQuery Bar Rating plugin](https://github.com/antennaio/jquery-bar-rating) - you can use theme from `dots.css` for it,
+it can also be added via simple import:
+
+```js
+import 'charsheet-dots';
+```
 
 Your comments and new characters are welcome :)
